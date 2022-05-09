@@ -6,24 +6,23 @@
 <img src="./public/assets/images/Snippet2.JPG">
 
 # Repository Link
-https://github.com/MrBearSir/TechBlog.git
+https://github.com/MrBearSir/NoteTaker
 
 # Live Link
-https://mrbearsir.github.io/NoteTaker/
+https://note-taker-oleg.herokuapp.com/
 
 # Project type.
-Model-View-Controller (MVC) Challenge
+Express.js
 
 # User Story.
-As a developer who writes about tech
-I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
+AS A small business owner
+I want to be able to write and save notes
+So that I can organize my thoughts and keep track of tasks I need to complete
 
 # Skills used in development.
 <ul>
-<li>Use of MySql database.</li>
-<li>Express and sequelize packages.</li>
-<li>Use of handlebars module. </li>
-<li>Implementing MVC paradigm structure. </li>
-<li>Deploying app thru the heroku .</li>
+<li>Use of Express module.</li>
+<li>Using JSON file to store data.</li>
+<li>Deploying on Heroku.</li>
+<li>CRUD routing.</li>
 </ul>
